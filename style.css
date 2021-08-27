@@ -1,8 +1,150 @@
+.userProfileButton {
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  padding: 7px 16px;
+}
 
-.userProfileButton a{
-    font-size: 10px;
-    text-decoration: none;
-    text-align: center;
-    width: 100px;
- }
+.myNavItem {
+  border-radius: 15px;
+  margin: 10px;
+  border: 1px solid gray;
+}
+.myNavItem :hover {
+  border-radius: 15px;
+  background-color: darkkhaki;
+}
+.header-section {
+  background-color: #f0fff0;
+}
 
+.navbar-brand .nav-logo {
+  width: 200px;
+  height: 70px;
+}
+
+.navbarIcon {
+  border: none;
+}
+
+.nav-photo {
+  width: 100%;
+  height: 100%;
+}
+.start-btn {
+  color: #ffffff;
+  padding: 7px 36px;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.my-card img {
+  height: 100px;
+  width: 100px;
+}
+
+.myCard {
+  background-color: cornsilk;
+  border-radius: 10px;
+  margin-top: 30px;
+  border: 1px solid blue;
+}
+
+.caragories-section img {
+  margin-top: 10px;
+  width: 66px;
+  height: 85px;
+}
+
+.myCard h6 {
+  margin-top: 10px;
+}
+
+.myCard p {
+  font-size: 10px;
+  color: #585859;
+}
+
+.myCard:hover {
+  background: #ffffff;
+  box-shadow: 3px 5px 7px 3px darkgray;
+}
+
+.my-course-card {
+  background: #f8fffb;
+  margin: 0 auto;
+  box-shadow: 3px 5px 7px 3px darkgray;
+}
+
+.my-course-card .cardImage {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.my-course-card h6 {
+  margin-top: 15px;
+  font-weight: bold;
+}
+.my-course-card p {
+  width: 96px;
+  height: 24px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.start-date {
+  width: 146px;
+  height: 24px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.start-desc img {
+  width: 18px;
+  height: 20px;
+}
+
+.course-btn {
+  padding: 5px 20px;
+  border: none;
+  margin: 10px 0;
+}
+
+.card {
+  box-shadow: 3px 5px 7px 3px darkgray;
+}
+
+.footer-class {
+  background-color: black;
+  color: blanchedalmond;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-class a {
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+}
+
+.footer-class a:hover {
+  color: tomato;
+}
+
+.footer-class p {
+  margin: 20px;
+}
+
+.testimonial-section img {
+  width: 120px;
+  height: 120px;
+  background: url(.jpg), #c4c4c4;
+  border-radius: 50%;
+}
